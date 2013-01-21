@@ -1,0 +1,9 @@
+#cart_block a.ajax_cart_block_remove_link {
+	width: 11px;
+	height: 13px;
+	margin-left: 6px;
+	float: right;
+	font-size: 0;
+	display: block;
+	background: transparent url('../../../img/icon/delete.gif') no-repeat left bottom
+}
