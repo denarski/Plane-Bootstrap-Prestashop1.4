@@ -22,6 +22,7 @@ a:link{ outline: none; }
 .price-discount,.on_sale{color:red}
 .new{background:#5CB85C; border-radius:4px;  color:#FFF; clear:both; color:white; display:inline; font-size:50%; font-weight:bold; margin:8px; padding:2px 4px; text-transform:uppercase; vertical-align:middle; }
 .hidden, .collapsed, .block_hidden_only_for_screen { display: none }
+.hidden{visibility:inherit;}
 /*generic*/
 
 /*blocks*/
